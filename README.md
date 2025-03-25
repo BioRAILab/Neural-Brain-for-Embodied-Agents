@@ -1,7 +1,8 @@
 # Neural Brain for Embodied Agents: Insights from Neuroscience
 <div align="center">
 
-### [Introduction](#introduction) | [Human Brain and Neural Brain](#sec2) | [Sensing](#sensing) | [Function](#function) | [Memory](#memory) | [Hardware/Software](#hardware-software)
+### [Introduction](#introduction) | [Human Brain and Neural Brain](#sec2) 
+### [Sensing](#sensing) | [Function](#function) | [Memory](#memory) | [Hardware/Software](#hardware-software)
 
 </div>
 
