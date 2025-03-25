@@ -10,8 +10,7 @@ Note: For any missing or recently published papers, feel free to pull a request,
 
 ## Introduction
 
-This is the official repository of [''Neural Brain for Embodied Agents: Insights from Neuroscience''](https://arxiv.org/pdf/2405.07801v3). Specifically, we first introduce the [Human Brain and Neural Brain](#sec2) used for object pose estimation. Then, we review the [instance-level](#instance-level), [category-level](#category-level), and [unseen](#unseen) methods, respectively. Finally, we summarize the common [applications](#applications) of this task. The taxonomy of this survey is shown as follows
-<p align="center"> <img src="./resources/taxonomy.png" width="100%"> </p>
+This is the official repository of [''Neural Brain for Embodied Agents: Insights from Neuroscience''](https://arxiv.org/pdf/2405.07801v3). Specifically, we first.....
 
 ## Human Brain and Neural Brain
 
@@ -21,20 +20,13 @@ This is the official repository of [''Neural Brain for Embodied Agents: Insights
 
 ## Sensing for Neural Brain
 
-### 3.1 Sensing
-
-#### 2023
-- Knowledge Distillation for 6D Pose Estimation by Aligning Distributions of Local Predictions [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_Knowledge_Distillation_for_6D_Pose_Estimation_by_Aligning_Distributions_of_CVPR_2023_paper.pdf)
-- Linear-Covariance Loss for End-to-End Learning of 6D Pose Estimation [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Linear-Covariance_Loss_for_End-to-End_Learning_of_6D_Pose_Estimation_ICCV_2023_paper.pdf)
-- CheckerPose: Progressive Dense Keypoint Localization for Object Pose Estimation with Graph Neural Network [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Lian_CheckerPose_Progressive_Dense_Keypoint_Localization_for_Object_Pose_Estimation_with_ICCV_2023_paper.pdf) [[Code]](https://github.com/RuyiLian/CheckerPose)
-
 ## Neural Brain Perception-Cognition-Action
 
 ## Neural Brain Memory Storage and Update
 
 ## Neural Brain Hardware and Software
 
-### 6.2 Manual Reference View-Based Methods
+### 6.2 Examples
 <details>
 <summary>6.2.1 Examples</summary>
   
@@ -53,7 +45,7 @@ This is the official repository of [''Neural Brain for Embodied Agents: Insights
 </details>
 
 <details>
-<summary>5.2.2 Template Matching-Based Methods</summary>
+<summary>6.2.2 Examples</summary>
   
 #### 2020 
 - LatentFusion: End-to-End Differentiable Reconstruction and Rendering for Unseen Object Pose Estimation[[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Park_LatentFusion_End-to-End_Differentiable_Reconstruction_and_Rendering_for_Unseen_Object_Pose_CVPR_2020_paper.pdf) [[Code]](https://github.com/NVlabs/latentfusion)
@@ -72,7 +64,7 @@ This is the official repository of [''Neural Brain for Embodied Agents: Insights
 </details>
 
 ## Citation
-If you find the paper useful, please cite our paper.
+If you find the paper useful, please consider cite our paper.
 ```latex
 @article{liu2024survey,
   title={Deep Learning-Based Object Pose Estimation: A Comprehensive Survey},
