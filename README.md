@@ -1,8 +1,8 @@
 # Neural Brain: A Neuroscience-inspired Framework for Embodied Agents
 <div align="center">
 
-### [Introduction](#introduction) | [Human Brain to Neural Brain](#sec2) 
-### [Sensing](#sensing for neural brain) | [Function](#function) | [Memory](#memory) | [Hardware/Software](#hardware-software)
+### [Introduction](#introduction) | [Human Brain to Neural Brain](#human-brain-to-neural-brain) 
+### [Sensing](#sensing-for-neural-brain) | [Function](#neural-brain-perception-cognition-action) | [Memory](#memory) | [Hardware/Software](#hardware-software)
 
 </div>
 
