@@ -100,7 +100,7 @@ The Neural Brain for embodied agents is a *biologically inspired computational f
 </details>
 
 <details>
-<summary>(c) Multimodal Large Models (MLMs)</summary>
+<summary>(c) Large Multimodal Models (LMMs)</summary>
 
 <details>
 <summary>Vision-Language</summary>
@@ -113,8 +113,19 @@ The Neural Brain for embodied agents is a *biologically inspired computational f
 - Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks [[Paper]](https://arxiv.org/abs/2401.14159) [[Code]](https://github.com/IDEA-Research/Grounded-Segment-Anything)
 
 #### 2021
+- ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision [[Paper]](https://arxiv.org/abs/2102.03334) [[Code]](https://github.com/dandelin/vilt)
+- Unifying Vision-and-Language Tasks via Text Generation [[Paper]](https://arxiv.org/abs/2102.02779) [[Code]](https://github.com/j-min/VL-T5)
 - Learning Transferable Visual Models From Natural Language Supervision [[Paper]](https://arxiv.org/abs/2103.00020) [[Code]](https://github.com/openai/CLIP)
 - ALIGN: Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision [[Paper]](https://arxiv.org/abs/2102.05918)
+
+#### 2020
+- VL-BERT: Pre-training of Generic Visual-Linguistic Representations [[Paper]](https://arxiv.org/abs/1908.08530) [[Code]](https://github.com/jackroos/VL-BERT)
+- UNITER: UNiversal Image-TExt Representation Learning [[Paper]](https://arxiv.org/abs/1909.11740) [[Code]](https://github.com/ChenRocks/UNITER)
+- Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks [[Paper]](https://arxiv.org/abs/2004.06165) [[Code]](https://github.com/microsoft/Oscar)
+
+#### 2019
+- LXMERT: Learning Cross-Modality Encoder Representations from Transformers [[Paper]](https://arxiv.org/abs/1908.07490) [[Code]](https://github.com/airsplay/lxmert)
+- ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks [[Paper]](https://arxiv.org/abs/1908.02265)
 
 </details>
 
