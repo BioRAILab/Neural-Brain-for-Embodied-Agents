@@ -1,5 +1,12 @@
-# Neural Brain: A Neuroscience-inspired Framework for Embodied Agents
 <div align="center">
+
+# Neural Brain: A Neuroscience-inspired Framework for Embodied Agents
+
+[Jian Liu](https://cnjliu.github.io/), [Xiongtao Shi](https://scholar.google.com.hk/citations?user=iXVbIToAAAAJ&hl=zh-CN&oi=ao), [Thai Duy Nguyen](https://github.com/thai-ngd), [Haitian Zhang](https://github.com/Hatins), [Tianxiang Zhang](https://cyberkona.github.io/), [Wei Sun](http://robotics.hnu.edu.cn/info/1071/1265.htm), [Yanjie Li](https://faculty.hitsz.edu.cn/liyanjie),
+
+[Athanasios V. Vasilakos](https://scholar.google.com.hk/citations?user=_yWPQWoAAAAJ&hl=zh-CN&oi=sra), [Giovanni Iacca](https://sites.google.com/site/giovanniiacca/), [Arshad Ali Khan](https://scholar.google.com.hk/citations?user=539QhJ8AAAAJ&hl=zh-CN&oi=ao), [Arvind Kumar](https://scholar.google.com.hk/citations?hl=zh-CN&user=r25Z-fYAAAAJ), [Jae Won Cho](https://scholar.google.com.hk/citations?hl=zh-CN&user=th4fvfIAAAAJ),
+
+[Ajmal Mian](https://ajmalsaeed.net/), [Lihua Xie](https://scholar.google.com.hk/citations?hl=zh-CN&user=Fmrv3J8AAAAJ), [Erik Cambria](https://scholar.google.com.hk/citations?hl=zh-CN&user=ilSYpW0AAAAJ), [Lin Wang](https://scholar.google.com.hk/citations?user=SReb2csAAAAJ&hl=zh-CN)
 
 ### [1. Introduction](#1-introduction) | [2. Human Brain to Neural Brain](#2-human-brain-to-neural-brain) 
 ### [3. Sensing](#3-sensing-for-neural-brain) | [4. Function](#4-neural-brain-perception-cognition-action-function) | [5. Memory](#5-neural-brain-memory-storage-and-update) | [6. Hardware/Software](#6-neural-brain-hardware-and-software)
