@@ -2,7 +2,7 @@
 <div align="center">
 
 ### [Introduction](#introduction) | [Human Brain to Neural Brain](#sec2) 
-### [Sensing](#sensing) | [Function](#function) | [Memory](#memory) | [Hardware/Software](#hardware-software)
+### [Sensing](#sensing for neural brain) | [Function](#function) | [Memory](#memory) | [Hardware/Software](#hardware-software)
 
 </div>
 
