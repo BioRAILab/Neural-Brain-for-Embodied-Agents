@@ -10,7 +10,11 @@ Note: For any missing or recently published papers, feel free to pull a request,
 
 ## 1. Introduction
 
-This is the official repository of [''Neural Brain: A Neuroscience-inspired Framework for Embodied Agents''](https://arxiv.org/pdf/2405.07801v3). Specifically, we first.....
+This is the official repository of [''Neural Brain: A Neuroscience-inspired Framework for Embodied Agents''](https://arxiv.org/pdf/2405.07801v3). Specifically, this paper is the first to introduce an innovative perspective by defining <b>*Neural Brain*</b> of embodied agents through the lens of neuroscience. We *not only propose this pioneering definition but also provide a comprehensive design framework for the purpose*. Subsequently, we revisit the existing literature in alignment with this novel framework, highlighting gaps and challenges, and outlining promising directions for future research. The proposed framework seeks to replicate key principles of biological cognition, including active sensing, a tightly coupled perception-cognition-action loop, etc. By integrating theoretical insights with practical engineering considerations, we aim to advance AI beyond task-specific optimization, laying the groundwork for achieving generalizable embodied intelligence.
+
+<p align="center">
+<img src="image/Fig1.jpg" alt="intro" width="100%"/>
+</p>
 
 ## 2. Human Brain to Neural Brain
 
