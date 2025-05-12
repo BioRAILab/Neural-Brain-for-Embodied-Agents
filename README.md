@@ -394,7 +394,84 @@ The Neural Brain for embodied agents is a *biologically inspired computational f
 
 ## 6. Neural Brain Hardware and Software
 
+### 6.1. Embodied Agent Hardware & Software
 
+#### 6.1.1. Neuromorphic Hardware
+
+- Loihi: A neuromorphic manycore processor with on-chip learning [[Paper]](https://ieeexplore.ieee.org/document/8259423)
+- Neuronflow: A hybrid neuromorphic--dataflow processor architecture for AI workloads [[Paper]](https://ieeexplore.ieee.org/document/9073999)
+- Efficient neuromorphic signal processing with loihi 2 [[Paper]](https://ieeexplore.ieee.org/document/9605018)
+- The BrainScaleS-2 accelerated neuromorphic system with hybrid plasticity [[Paper]](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.795876/full)
+- Neuromorphic artificial intelligence systems [[Paper]](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.959626/full)
+- Speck: A smart event-based vision sensor with a low latency 327k neuron convolutional neuronal network processing pipeline [[Paper]](https://arxiv.org/abs/2304.06793v2)
+
+- Prime: A novel processing-in-memory architecture for neural network computation in reram-based main memory [[Paper]](https://ieeexplore.ieee.org/document/7551380)
+- NeuroSim: A circuit-level macro model for benchmarking neuro-inspired architectures in online learning [[Paper]](https://ieeexplore.ieee.org/document/8246561)
+- A phase-change memory model for neuromorphic computing [[Paper]](https://pubs.aip.org/aip/jap/article/124/15/152135/348160/A-phase-change-memory-model-for-neuromorphic)
+- PUMA: A programmable ultra-efficient memristor-based accelerator for machine learning inference [[Paper]](https://arxiv.org/abs/1901.10351)
+- ODIN: A bit-parallel stochastic arithmetic based accelerator for in-situ neural network processing in phase change RAM [[Paper]](https://arxiv.org/abs/2103.03953)
+
+- Lighton optical processing unit: Scaling-up AI and HPC with a non von neumann co-processor [[Paper]](https://arxiv.org/abs/2107.11814)
+- An on-chip photonic deep neural network for image classification [[Paper]](https://www.nature.com/articles/s41586-022-04714-0)
+- Quantum reservoir computing in finite dimensions [[Paper]](https://arxiv.org/abs/2212.00396)
+- Theoretical error performance analysis for variational quantum circuit based functional regression [[Paper]](https://www.nature.com/articles/s41534-022-00672-7)
+
+#### 6.1.2. Software Frameworks for Neural Brains
+
+- Speaker-follower models for vision-and-language navigation [[Paper]](https://arxiv.org/abs/1806.02724)
+- AudioCLIP: Extending CLIP to Image, Text and Audio [[Paper]](https://arxiv.org/abs/2106.13043)
+- VLN BERT: A recurrent vision-and-language bert for navigation [[Paper]](https://arxiv.org/abs/2011.13922)
+- Blip-2: Bootstrapping language-image pre-training with frozen image encoders and large language models [[Paper]](https://arxiv.org/abs/2301.12597)
+- GPT-4 technical report [[Paper]](https://arxiv.org/abs/2303.08774)
+- Palm 2 technical report [[Paper]](https://arxiv.org/abs/2305.10403)
+- Qwen technical report [[Paper]](https://arxiv.org/abs/2309.16609)
+- Rt-2: Vision-language-action models transfer web knowledge to robotic control [[Paper]](https://arxiv.org/abs/2307.15818)
+- Deepseek-V3 technical report [[Paper]](https://arxiv.org/abs/2412.19437)
+
+- NEST: A network simulation and prototyping testbed [[Paper]](https://dl.acm.org/doi/10.1145/84537.84549)
+- Bindsnet: A machine learning-oriented spiking neural networks library in python [[Paper]](https://arxiv.org/abs/1806.01423)
+- Brian 2, an intuitive and efficient neural simulator [[Paper]](https://elifesciences.org/articles/47314)
+- Spinnaker-a spiking neural network architecture [[Paper]](https://www.nowpublishers.com/article/BookDetails/9781680836523)
+- Norse-A deep learning library for spiking neural networks [[Paper]](https://explore.openaire.eu/search/software?pid=10.5281%2Fzenodo.4422025)
+
+- Tensorrt inference with tensorflow [[Paper]](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9431-tensorrt-inference-with-tensorflow.pdf)
+- Compiling onnx neural network models using mlir [[Paper]](https://arxiv.org/abs/2008.08272)
+- Impact of thermal throttling on long-term visual inference in a CPU-based edge device [[Paper]](https://www.mdpi.com/2079-9292/9/12/2106)
+- Comparison and benchmarking of AI models and frameworks on mobile devices [[Paper]](https://arxiv.org/abs/2005.05085)
+- Tensorflow lite micro: Embedded machine learning for tinyml systems [[Paper]](https://arxiv.org/abs/2010.08678)
+
+#### 6.1.3. Energy-Efficient Learning at the Edge
+
+- Sparse convolutional neural networks [[Paper]](https://openaccess.thecvf.com/content_cvpr_2015/html/Liu_Sparse_Convolutional_Neural_2015_CVPR_paper.html)
+- Training sparse neural networks [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w4/html/Srinivas_Training_Sparse_Neural_CVPR_2017_paper.html)
+- SCNN: An accelerator for compressed-sparse convolutional neural networks [[Paper]](https://dl.acm.org/doi/abs/10.1145/3140659.3080254)
+- Sparse computation in adaptive spiking neural networks [[Paper]](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2018.00987/full)
+- Sbnet: Sparse blocks network for fast inference [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Ren_SBNet_Sparse_Blocks_CVPR_2018_paper.html)
+- Big bird: Transformers for longer sequences [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/c8512d142a2d849725f31a9a7a361ab9-Abstract.html)
+- Glam: Efficient scaling of language models with mixture-of-experts [[Paper]](https://proceedings.mlr.press/v162/du22c.html)
+- Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity [[Paper]](https://www.jmlr.org/papers/v23/21-0998.html)
+- Base layers: Simplifying training of large, sparse models [[Paper]](https://proceedings.mlr.press/v139/lewis21a)
+
+- Distilling the knowledge in a neural network [[Paper]](https://arxiv.org/abs/1503.02531)
+- Quantization and training of neural networks for efficient integer-arithmetic-only inference [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Jacob_Quantization_and_Training_CVPR_2018_paper.html)
+- STDP-based pruning of connections and weight quantization in spiking neural networks for energy-efficient recognition [[Paper]](https://ieeexplore.ieee.org/abstract/document/8325325)
+- Quantization networks [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Yang_Quantization_Networks_CVPR_2019_paper.html)
+- Quantization framework for fast spiking neural networks [[Paper]](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.918793/full)
+- Efficient neural networks for edge devices [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0045790621001257)
+
+- A million spiking-neuron integrated circuit with a scalable communication network and interface [[Paper]](https://www.science.org/doi/abs/10.1126/science.1254642)
+- Eyeriss: A spatial architecture for energy-efficient dataflow for convolutional neural networks [[Paper]](https://dl.acm.org/doi/abs/10.1145/3007787.3001177)
+- Maeri: Enabling flexible dataflow mapping over DNN accelerators via reconfigurable interconnects [[Paper]](https://dl.acm.org/doi/abs/10.1145/3296957.3173176)
+- DNNBuilder: An automated tool for building high-performance DNN hardware accelerators for FPGAs [[Paper]](https://ieeexplore.ieee.org/abstract/document/8587697)
+- TVM: An automated End-to-End optimizing compiler for deep learning [[Paper]](https://www.usenix.org/conference/osdi18/presentation/chen)
+- SECDA: Efficient hardware/software co-design of FPGA-based DNN accelerators for edge inference [[Paper]](https://ieeexplore.ieee.org/abstract/document/9651579)
+
+### 6.2. Remarks and Discussions
+
+- Challenges for large-scale implementations of spiking neural networks on FPGAs [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231207002123)
+- Progress and Challenges in Large Scale Spiking Neural Networks for AI and Neuroscience [[Paper]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174197995.54372833)
+- A review on methods, issues and challenges in neuromorphic engineering [[Paper]](https://ieeexplore.ieee.org/abstract/document/7322626)
+- Real-Time Neuromorphic Navigation: Guiding Physical Robots with Event-Based Sensing and Task-Specific Reconfigurable Autonomy Stack [[Paper]](https://arxiv.org/abs/2503.09636)
 
 ## Citation
 If you find the paper useful, please consider cite our paper.
