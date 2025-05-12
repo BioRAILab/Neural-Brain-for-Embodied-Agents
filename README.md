@@ -10,7 +10,7 @@ Note: For any missing or recently published papers, feel free to pull a request,
 
 ## Introduction
 
-This is the official repository of [''Neural Brain for Embodied Agents: Insights from Neuroscience''](https://arxiv.org/pdf/2405.07801v3). Specifically, we first.....
+This is the official repository of [''Neural Brain: A Neuroscience-inspired Framework for Embodied Agents''](https://arxiv.org/pdf/2405.07801v3). Specifically, we first.....
 
 ## Human Brain to Neural Brain
 
