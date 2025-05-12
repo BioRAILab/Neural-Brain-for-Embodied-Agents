@@ -2,7 +2,7 @@
 <div align="center">
 
 ### [Introduction](#introduction) | [Human Brain to Neural Brain](#human-brain-to-neural-brain) 
-### [Sensing](#sensing-for-neural-brain) | [Function](#neural-brain-perception-cognition-action) | [Memory](#memory) | [Hardware/Software](#hardware-software)
+### [Sensing](#sensing-for-neural-brain) | [Function](#neural-brain-perception-cognition-action-function) | [Memory](#neural-brain-memory-storage-and-update) | [Hardware/Software](#neural-brain-hardware-and-software)
 
 </div>
 
@@ -20,7 +20,7 @@ This is the official repository of [''Neural Brain: A Neuroscience-inspired Fram
 
 ## Sensing for Neural Brain
 
-## Neural Brain Perception-Cognition-Action
+## Neural Brain Perception-Cognition-Action (Function)
 
 ### 4.1 Embodied Agent Perception-Cognition-Action
 
