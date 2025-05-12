@@ -1,7 +1,7 @@
-# Neural Brain for Embodied Agents: Insights from Neuroscience
+# Neural Brain: A Neuroscience-inspired Framework for Embodied Agents
 <div align="center">
 
-### [Introduction](#introduction) | [Human Brain and Neural Brain](#sec2) 
+### [Introduction](#introduction) | [Human Brain to Neural Brain](#sec2) 
 ### [Sensing](#sensing) | [Function](#function) | [Memory](#memory) | [Hardware/Software](#hardware-software)
 
 </div>
@@ -12,7 +12,7 @@ Note: For any missing or recently published papers, feel free to pull a request,
 
 This is the official repository of [''Neural Brain for Embodied Agents: Insights from Neuroscience''](https://arxiv.org/pdf/2405.07801v3). Specifically, we first.....
 
-## Human Brain and Neural Brain
+## Human Brain to Neural Brain
 
 ### 2.1 Human Brain: Insights from Neuroscience
 
