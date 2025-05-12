@@ -1,26 +1,26 @@
 # Neural Brain: A Neuroscience-inspired Framework for Embodied Agents
 <div align="center">
 
-### [Introduction](#introduction) | [Human Brain to Neural Brain](#human-brain-to-neural-brain) 
-### [Sensing](#sensing-for-neural-brain) | [Function](#neural-brain-perception-cognition-action-function) | [Memory](#neural-brain-memory-storage-and-update) | [Hardware/Software](#neural-brain-hardware-and-software)
+### [Introduction](#1-introduction) | [Human Brain to Neural Brain](#2-human-brain-to-neural-brain) 
+### [Sensing](#3-sensing-for-neural-brain) | [Function](#4-neural-brain-perception-cognition-action-function) | [Memory](#5-neural-brain-memory-storage-and-update) | [Hardware/Software](#6-neural-brain-hardware-and-software)
 
 </div>
 
 Note: For any missing or recently published papers, feel free to pull a request, we will add them asap :)
 
-## Introduction
+## 1. Introduction
 
 This is the official repository of [''Neural Brain: A Neuroscience-inspired Framework for Embodied Agents''](https://arxiv.org/pdf/2405.07801v3). Specifically, we first.....
 
-## Human Brain to Neural Brain
+## 2. Human Brain to Neural Brain
 
 ### 2.1 Human Brain: Insights from Neuroscience
 
 ### 2.2 Definition of Neural Brain from Neuroscience
 
-## Sensing for Neural Brain
+## 3. Sensing for Neural Brain
 
-## Neural Brain Perception-Cognition-Action (Function)
+## 4. Neural Brain Perception-Cognition-Action (Function)
 
 ### 4.1 Embodied Agent Perception-Cognition-Action
 
@@ -223,7 +223,7 @@ This is the official repository of [''Neural Brain: A Neuroscience-inspired Fram
 
 ### 4.2. Remarks and Discussions
 
-## Neural Brain Memory Storage and Update
+## 5. Neural Brain Memory Storage and Update
 
 ### 5.1 Embodied Agent Knowledge Storage and Update
 
@@ -356,7 +356,7 @@ This is the official repository of [''Neural Brain: A Neuroscience-inspired Fram
 - Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[Paper]](https://arxiv.org/abs/2407.06886) [[Code]](https://github.com/hcplab-sysu/embodied_ai_paper_list)
 - MEIA: Multimodal Embodied Perception and Interaction in Unknown Environments [[Paper]](https://arxiv.org/abs/2402.00290)
 
-## Neural Brain Hardware and Software
+## 6. Neural Brain Hardware and Software
 
 
 
