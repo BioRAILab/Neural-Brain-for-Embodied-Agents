@@ -10,18 +10,32 @@ Note: For any missing or recently published papers, feel free to pull a request,
 
 ## 1. Introduction
 
-This is the official repository of [''Neural Brain: A Neuroscience-inspired Framework for Embodied Agents''](https://arxiv.org/pdf/2405.07801v3). Specifically, this paper is the first to introduce an innovative perspective by defining <b>*Neural Brain*</b> of embodied agents through the lens of neuroscience. We *not only propose this pioneering definition but also provide a comprehensive design framework for the purpose*. Subsequently, we revisit the existing literature in alignment with this novel framework, highlighting gaps and challenges, and outlining promising directions for future research. The proposed framework seeks to replicate key principles of biological cognition, including active sensing, a tightly coupled perception-cognition-action loop, etc. By integrating theoretical insights with practical engineering considerations, we aim to advance AI beyond task-specific optimization, laying the groundwork for achieving generalizable embodied intelligence.
+This is the official repository of [''Neural Brain: A Neuroscience-inspired Framework for Embodied Agents''](https://arxiv.org/pdf/2405.07801v3). This paper is the first to introduce an innovative perspective by defining <b>*Neural Brain*</b> of embodied agents through the lens of neuroscience. We *not only propose this pioneering definition but also provide a comprehensive design framework for the purpose*. Subsequently, we revisit the existing literature in alignment with this novel framework, highlighting gaps and challenges, and outlining promising directions for future research. The proposed framework seeks to replicate key principles of biological cognition, including active sensing, a tightly coupled perception-cognition-action loop, etc. By integrating theoretical insights with practical engineering considerations, we aim to advance AI beyond task-specific optimization, laying the groundwork for achieving generalizable embodied intelligence.
 
 <p align="center">
-<img src="image/Fig1.jpg" alt="intro" width="100%"/>
+<img src="image/Fig0.jpg" alt="intro" width="100%"/>
 </p>
+
+The evolution from AI to embodied AI. (a) AI excels in pattern recognition but lacks physical interaction with the real world. (b) Embodied AI enables robots like Atlas of Boston Dynamics and Unitree G1 to perceive and act in their environment. (c) Inspired by the human brain, intelligence arises from neural processes that integrate sensing, perception, cognition, action, and memory. (d) This work proposes a concept of *Neural Brain* for embodied agents, combining neuroscience to achieve generalizable embodied AI.
 
 ## 2. Human Brain to Neural Brain
 
 ### 2.1 Human Brain: Insights from Neuroscience
 
+The human brain comprises four key components: *sensing*, *function (perception, cognition, action)*, *memory (short-term and long-term)*, and *implementation features*, such as sparse activation, event-driven processing, predictive coding, and distributed and parallel mechanisms. Inspired by insights from neuroscience, we propose the concept of a <b>*Neural Brain for Embodied Agents*</b>, which integrates these principles into four distinct modules. The *sensing module* incorporates multimodal fusion, active sensing, and adaptive calibration to enhance perceptual capabilities. The *function module* encompasses predictive perception, cognitive reasoning, and action, including an action-closed loop to ensure continuous interaction with the environment. The *memory module* features a hierarchical architecture, neuroplastic adaptation, and context awareness, enabling agents to store and retrieve information dynamically and efficiently. Finally, the *hardware/software module* is characterized by event-driven processing, neuromorphic architecture, and hardware-software co-design, ensuring robust and flexible operation. These four core ideas, derived from the structure and functionality of the human brain, aim to empower embodied agents to adapt, learn, and perform effectively in real-world, embodied environments.
+
+<p align="center">
+<img src="image/Fig1.jpg" alt="intro" width="100%"/>
+</p>
+
 ### 2.2 Definition of Neural Brain from Neuroscience
 
+The Neural Brain for embodied agents is a *biologically inspired computational framework* that synthesizes principles from neuroscience, robotics, and machine learning to facilitate autonomous and adaptive interaction within unstructured environments. Designed to emulate the hierarchical and distributed architecture of the human brain, it integrates *multimodal and active sensing (Sensing), closed-loop perception-cognition-action cycles (Function), neuroplasticity-driven memory systems (Memory), and energy-efficient neuromorphic hardware-software co-design (Hardware/Software),* as shown below.
+
+<p align="center">
+<img src="image/Fig2.jpg" alt="intro" width="100%"/>
+</p>
+ 
 ## 3. Sensing for Neural Brain
 
 ## 4. Neural Brain Perception-Cognition-Action (Function)
