@@ -1,7 +1,7 @@
 <div align="center">
 
 # Neural Brain: A Neuroscience-inspired Framework for Embodied Agents
-[![arXiv](https://img.shields.io/badge/arXiv-2505.05515-red)](https://arxiv.org/abs/2505.05515)
+[![arXiv](https://img.shields.io/badge/arXiv-2505.07634-red)](https://arxiv.org/abs/2505.07634)
 [![Maintenance](https://img.shields.io/badge/Maintenance-%E2%9C%93-yellowgreen)](#maintenance)
 [![Discussion](https://img.shields.io/badge/Discussion-Open-brightgreen)](#discussion)      
 
@@ -20,7 +20,7 @@
 
 ## 1. Introduction
 
-- __[2025.5.13]__: 🔥🔥  We release the official repository of paper [Neural Brain: A Neuroscience-inspired Framework for Embodied Agents](). This paper is the <b>*first*</b> to introduce an innovative perspective by defining <b>*Neural Brain*</b> of embodied agents through the lens of <b>*neuroscience*</b>. We not only <b>*propose this pioneering definition*</b> but also <b>*provide a comprehensive design framework for the purpose*</b>.
+- __[2025.5.13]__: 🔥🔥  We release the official repository of paper [Neural Brain: A Neuroscience-inspired Framework for Embodied Agents](https://arxiv.org/abs/2505.07634). This paper is the <b>*first*</b> to introduce an innovative perspective by defining <b>*Neural Brain*</b> of embodied agents through the lens of <b>*neuroscience*</b>. We not only <b>*propose this pioneering definition*</b> but also <b>*provide a comprehensive design framework for the purpose*</b>.
 
 Additionally, we revisit the existing literature in alignment with this novel framework, highlighting gaps and challenges, and outlining promising directions for future research. The proposed framework seeks to replicate key principles of biological cognition, including active sensing, a tightly coupled perception-cognition-action loop, etc. By integrating theoretical insights with practical engineering considerations, we aim to advance AI beyond task-specific optimization, laying the groundwork for achieving generalizable embodied intelligence.
 
@@ -28,7 +28,7 @@ Additionally, we revisit the existing literature in alignment with this novel fr
 <img src="image/Fig0.jpg" alt="intro" width="100%"/>
 </p>
 
-The evolution from AI to embodied AI. (a) AI excels in pattern recognition but lacks physical interaction with the real world. (b) Embodied AI enables robots like Atlas of Boston Dynamics and Unitree G1 to perceive and act in their environment. (c) Inspired by the human brain, intelligence arises from neural processes that integrate sensing, perception, cognition, action, and memory. (d) This work proposes a concept of *Neural Brain* for embodied agents, combining neuroscience to achieve generalizable embodied AI.
+The evolution from AI to embodied AI. (a) AI excels in pattern recognition but lacks physical interaction with the real world. (b) Embodied AI enables robots like Atlas of Boston Dynamics and Unitree G1 to perceive and act in their environment. (c) Inspired by the human brain, intelligence arises from neural processes that integrate sensing, perception, cognition, action, and memory. (d) This work proposes a concept of <b>*Neural Brain for Embodied Agents*</b>, combining neuroscience to achieve generalizable embodied AI.
 
 ## 2. Human Brain to Neural Brain
 
