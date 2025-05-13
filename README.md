@@ -385,6 +385,9 @@ The Neural Brain for embodied agents is a *biologically inspired computational f
 
 ### 5.2. Remarks and Discussions
 
+<details>
+<summary>References</summary>
+
 #### 2025
 - Lifelong Learning of Large Language Model based Agents: A Roadmap [[Paper]](https://arxiv.org/abs/2501.07278) [[Code]](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)
 
@@ -392,12 +395,14 @@ The Neural Brain for embodied agents is a *biologically inspired computational f
 - Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[Paper]](https://arxiv.org/abs/2407.06886) [[Code]](https://github.com/hcplab-sysu/embodied_ai_paper_list)
 - MEIA: Multimodal Embodied Perception and Interaction in Unknown Environments [[Paper]](https://arxiv.org/abs/2402.00290)
 
+</details>
+
 ## 6. Neural Brain Hardware and Software
 
 ### 6.1. Embodied Agent Hardware & Software
 
 <details>
-<summary>**6.1.1. Neuromorphic Hardware**</summary>
+<summary>6.1.1. Neuromorphic Hardware</summary>
 
 - Loihi: A neuromorphic manycore processor with on-chip learning [[Paper]](https://ieeexplore.ieee.org/document/8259423)
 - Neuronflow: A hybrid neuromorphic--dataflow processor architecture for AI workloads [[Paper]](https://ieeexplore.ieee.org/document/9073999)
@@ -420,7 +425,7 @@ The Neural Brain for embodied agents is a *biologically inspired computational f
 </details>
 
 <details>
-<summary>**6.1.2. Software Frameworks for Neural Brains**</summary>
+<summary>6.1.2. Software Frameworks for Neural Brains</summary>
 
 - Speaker-follower models for vision-and-language navigation [[Paper]](https://arxiv.org/abs/1806.02724)
 - AudioCLIP: Extending CLIP to Image, Text and Audio [[Paper]](https://arxiv.org/abs/2106.13043)
@@ -447,7 +452,7 @@ The Neural Brain for embodied agents is a *biologically inspired computational f
 </details>
 
 <details>
-<summary>**6.1.3. Energy-Efficient Learning at the Edge**</summary>
+<summary>6.1.3. Energy-Efficient Learning at the Edge</summary>
 
 - Sparse convolutional neural networks [[Paper]](https://openaccess.thecvf.com/content_cvpr_2015/html/Liu_Sparse_Convolutional_Neural_2015_CVPR_paper.html)
 - Training sparse neural networks [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w4/html/Srinivas_Training_Sparse_Neural_CVPR_2017_paper.html)
@@ -475,8 +480,9 @@ The Neural Brain for embodied agents is a *biologically inspired computational f
 
 </details>
 
+### 6.2. Remarks and Discussions
 <details>
-<summary>**6.2. Remarks and Discussions**</summary>
+<summary>References</summary>
 
 - Challenges for large-scale implementations of spiking neural networks on FPGAs [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231207002123)
 - Progress and Challenges in Large Scale Spiking Neural Networks for AI and Neuroscience [[Paper]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174197995.54372833)
