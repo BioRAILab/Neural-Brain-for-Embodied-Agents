@@ -27,7 +27,6 @@ Additionally, we revisit the existing literature in alignment with this novel fr
 <p align="center">
 <img src="image/Fig0.jpg" alt="intro" width="100%"/>
 </p>
-
 The evolution from AI to embodied AI. (a) AI excels in pattern recognition but lacks physical interaction with the real world. (b) Embodied AI enables robots like Atlas of Boston Dynamics and Unitree G1 to perceive and act in their environment. (c) Inspired by the human brain, intelligence arises from neural processes that integrate sensing, perception, cognition, action, and memory. (d) This work proposes a concept of <b>*Neural Brain for Embodied Agents*</b>, combining neuroscience to achieve generalizable embodied AI.
 
 ## 2. Human Brain to Neural Brain
