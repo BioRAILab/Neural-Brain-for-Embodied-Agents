@@ -1,6 +1,9 @@
 <div align="center">
 
 # Neural Brain: A Neuroscience-inspired Framework for Embodied Agents
+[![arXiv](https://img.shields.io/badge/arXiv-2505.05515-red)](https://arxiv.org/abs/2505.05515)
+[![Maintenance](https://img.shields.io/badge/Maintenance-%E2%9C%93-yellowgreen)](#maintenance)
+[![Discussion](https://img.shields.io/badge/Discussion-Open-brightgreen)](#discussion)      
 
 [Jian Liu](https://cnjliu.github.io/), [Xiongtao Shi](https://scholar.google.com.hk/citations?user=iXVbIToAAAAJ&hl=zh-CN&oi=ao), [Thai Duy Nguyen](https://github.com/thai-ngd), [Haitian Zhang](https://github.com/Hatins), [Tianxiang Zhang](https://cyberkona.github.io/), [Wei Sun](http://robotics.hnu.edu.cn/info/1071/1265.htm), [Yanjie Li](https://faculty.hitsz.edu.cn/liyanjie),
 
@@ -13,11 +16,13 @@
 
 </div>
 
-Note: For any missing or recently published papers, feel free to pull a request, we will add them asap :)
+📢 Note: If you have any suggestions, feel free to post an issue or pull a request, we will address asap!
 
 ## 1. Introduction
 
-This is the official repository of [''Neural Brain: A Neuroscience-inspired Framework for Embodied Agents''](https://arxiv.org/pdf/2405.07801v3). This paper is the first to introduce an innovative perspective by defining <b>*Neural Brain*</b> of embodied agents through the lens of neuroscience. We *not only propose this pioneering definition but also provide a comprehensive design framework for the purpose*. Subsequently, we revisit the existing literature in alignment with this novel framework, highlighting gaps and challenges, and outlining promising directions for future research. The proposed framework seeks to replicate key principles of biological cognition, including active sensing, a tightly coupled perception-cognition-action loop, etc. By integrating theoretical insights with practical engineering considerations, we aim to advance AI beyond task-specific optimization, laying the groundwork for achieving generalizable embodied intelligence.
+- __[2025.5.13]__: 🔥🔥  We release the official repository of paper [Neural Brain: A Neuroscience-inspired Framework for Embodied Agents](). This paper is the <b>*first*</b> to introduce an innovative perspective by defining <b>*Neural Brain*</b> of embodied agents through the lens of <b>*neuroscience*</b>. We not only <b>*propose this pioneering definition*</b> but also <b>*provide a comprehensive design framework for the purpose*</b>.
+
+Additionally, we revisit the existing literature in alignment with this novel framework, highlighting gaps and challenges, and outlining promising directions for future research. The proposed framework seeks to replicate key principles of biological cognition, including active sensing, a tightly coupled perception-cognition-action loop, etc. By integrating theoretical insights with practical engineering considerations, we aim to advance AI beyond task-specific optimization, laying the groundwork for achieving generalizable embodied intelligence.
 
 <p align="center">
 <img src="image/Fig0.jpg" alt="intro" width="100%"/>
