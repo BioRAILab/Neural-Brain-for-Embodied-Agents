@@ -496,12 +496,12 @@ The Neural Brain for embodied agents is a <b>*biologically inspired computationa
 </details>
 
 ## Citation
-If you find the paper useful, please consider cite our paper.
+If you find the paper useful, please consider citing our paper.
 ```latex
 @article{2025neuralbrain,
   title={Neural Brain: A Neuroscience-inspired Framework for Embodied Agents},
   author={Liu, Jian and Shi, Xiongtao and Nguyen, Thai and Zhang, Haitian and Zhang, Tianxiang and Sun, Wei and Li, Yanjie and Vasilakos, Athanasios and Iacca, Giovanni and Khan, Arshad and others},
-  journal={arXiv preprint arXiv:2505.07801},
+  journal={arXiv preprint arXiv:2505.07634},
   year={2025}
 }
 ```
