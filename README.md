@@ -314,7 +314,9 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 #### 4.1.4 Perception-Cognition-Action in AI
 <details>
 <summary>(a) Vision-Language-Action Models (VLA)</summary>
-π<sub>0.5</sub>: a VLA with Open-World Generalization [[Paper]](https://www.physicalintelligence.company/download/pi05.pdf) [[Code]](https://www.pi.website/blog/pi05)
+ 
+- π<sub>0.5</sub>: a VLA with Open-World Generalization [[Paper]](https://www.physicalintelligence.company/download/pi05.pdf) [[Code]](https://www.pi.website/blog/pi05)
+- π<sub>0</sub>: A Vision-Language-Action Flow Model for General Robot Control [[Paper]](https://arxiv.org/abs/2410.24164) [[Code]](https://www.physicalintelligence.company/blog/pi0)
  
 </details>
 
