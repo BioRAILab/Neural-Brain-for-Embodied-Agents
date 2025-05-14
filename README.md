@@ -275,10 +275,17 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 - RVT: Robotic View Transformer for 3D Object Manipulation [[Paper]](https://arxiv.org/abs/2306.14896)) [[Code]](https://github.com/nvlabs/rvt)
 - ACT: Learning finegrained bimanual manipulation with low-cost hardware [[Paper]](https://arxiv.org/abs/2304.13705)) [[Code]](https://github.com/tonyzhaozh/aloha)
 - Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions [[Paper]](https://arxiv.org/abs/2309.10150)) [[Code]](https://qtransformer.github.io/)
-- 
 
+#### 2022
+- RT-1: RT-1: Robotics Transformer for Real-World Control at Scale [[Paper]](https://arxiv.org/abs/2212.06817)) [[Code]](https://github.com/google-research/robotics_transformer)
+- BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning [[Paper]](https://arxiv.org/abs/2202.02005)) [[Code]](https://sites.google.com/view/bc-z/home)
+- CLIPort: What and Where Pathways for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2109.12098)) [[Code]](https://github.com/cliport/cliport)
 
+#### 2021
+- Transporter Networks: Rearranging the Visual World for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2010.14406)) [[Code]](https://transporternets.github.io/)
 
+#### 2020
+- MCIL: Language Conditioned Imitation Learning over Unstructured Data [[Paper]](https://arxiv.org/abs/2005.07648)) [[Code]](https://language-play.github.io/)
 </details>
 
 
