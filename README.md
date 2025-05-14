@@ -277,7 +277,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 - Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions [[Paper]](https://arxiv.org/abs/2309.10150)) [[Code]](https://qtransformer.github.io/)
 
 #### 2022
-- RT-1: RT-1: Robotics Transformer for Real-World Control at Scale [[Paper]](https://arxiv.org/abs/2212.06817)) [[Code]](https://github.com/google-research/robotics_transformer)
+- RT-1: Robotics Transformer for Real-World Control at Scale [[Paper]](https://arxiv.org/abs/2212.06817)) [[Code]](https://github.com/google-research/robotics_transformer)
 - BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning [[Paper]](https://arxiv.org/abs/2202.02005)) [[Code]](https://sites.google.com/view/bc-z/home)
 - CLIPort: What and Where Pathways for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2109.12098)) [[Code]](https://github.com/cliport/cliport)
 
@@ -292,6 +292,22 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 <details>
 <summary>(a) Vision-Language-Navigation Models (VLN) </summary>
 
+#### 2023
+- BEVBert: Multimodal Map Pre-training for Language-guided Navigation [[Paper]](https://arxiv.org/abs/2212.04385)) [[Code]](https://github.com/MarSaKi/VLN-BEVBert)
+
+#### 2022
+- CM2: Cross-modal Map Learning for Vision and Language Navigation [[Paper]](https://arxiv.org/abs/2203.05137)) [[Code]](https://ggeorgak11.github.io/CM2-project/)
+- Talk2nav: Talk2Nav: Long-Range Vision-and-Language Navigation with Dual Attention and Spatial Memory [[Paper]](https://link.springer.com/article/10.1007/s11263-020-01374-3)) [[Code]](https://www.trace.ethz.ch/publications/2019/talk2nav/index.html)
+- Waypoints Predictor: Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation [[Paper]](https://arxiv.org/abs/2203.02764)) [[Code]](https://github.com/YicongHong/Discrete-Continuous-VLN)
+
+#### 2021
+- HAMT: History Aware Multimodal Transformer for Vision-and-Language Navigation [[Paper]](https://arxiv.org/abs/2110.13309)) [[Code]](https://github.com/cshizhe/VLN-HAMT)
+- WPN: Waypoint Models for Instruction-guided Navigation in Continuous Environments [[Paper]](https://ieeexplore.ieee.org/document/9710310)) [[Code]](https://github.com/jacobkrantz/VLN-CE)
+- Sim-to-Real: Sim-to-Real Transfer for Vision-and-Language Navigation [[Paper]](https://arxiv.org/abs/2011.03807)) [[Code]](https://github.com/batra-mlp-lab/vln-sim2real)
+
+ #### 2018
+- Speaker-Follower: Speaker-Follower Models for Vision-and-Language Navigation [[Paper]](https://arxiv.org/abs/1806.02724)) [[Code]](https://github.com/ronghanghu/speaker_follower)
+- VLN-Graph: Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments [[Paper]](https://arxiv.org/abs/1711.07280)) [[Code]](https://bringmeaspoon.org/)
 
 </details>
 #### 4.1.4 Perception-Cognition-Action in AI
