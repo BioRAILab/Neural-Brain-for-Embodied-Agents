@@ -314,10 +314,19 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 #### 4.1.4 Perception-Cognition-Action in AI
 <details>
 <summary>(a) Vision-Language-Action Models (VLA)</summary>
- 
+
+#### 2025
 - π<sub>0.5</sub>: a VLA with Open-World Generalization [[Paper]](https://www.physicalintelligence.company/download/pi05.pdf) [[Code]](https://www.pi.website/blog/pi05)
+  
+#### 2024
 - π<sub>0</sub>: A Vision-Language-Action Flow Model for General Robot Control [[Paper]](https://arxiv.org/abs/2410.24164) [[Code]](https://www.physicalintelligence.company/blog/pi0)
- 
+- RT-H: Action Hierarchies Using Language [[Paper]](https://arxiv.org/abs/2403.01823) [[Code]](https://rt-hierarchy.github.io/)
+- RT-X: Open X-Embodiment: Robotic Learning Datasets and RT-X Models [[Paper]](https://arxiv.org/abs/2403.01823) [[Code]](https://robotics-transformer-x.github.io/)
+- OpenVLA: An Open-Source Vision-Language-Action Model [[Paper]](https://arxiv.org/abs/2406.09246) [[Code]](https://github.com/openvla/openvla)
+
+#### 2023
+- RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control [[Paper]](https://arxiv.org/abs/2307.15818) [[Code]](https://robotics-transformer2.github.io/) 
+
 </details>
 
 
