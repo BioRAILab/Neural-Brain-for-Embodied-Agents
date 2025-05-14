@@ -263,18 +263,18 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 
 #### 2024
 
-- PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs [[Paper]]([https://pivot-prompt.github.io/assets/pivot.pdf])) [[Code]](https://huggingface.co/spaces/pivot-prompt/pivot-prompt-demo)
-- ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation [[Paper]]([https://arxiv.org/abs/2409.01652])) [[Code]](https://rekep-robot.github.io/)
-- DP3: 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[Paper]]([https://arxiv.org/abs/2403.03954])) [[Code]](https://github.com/YanjieZe/3D-Diffusion-Policy)
-- RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [[Paper]]([https://arxiv.org/abs/2410.07864])) [[Code]](https://github.com/thu-ml/RoboticsDiffusionTransformer)
-- MBA: Motion Before Action: Diffusing Object Motion as Manipulation Condition [[Paper]]([https://arxiv.org/abs/2411.09658])) [[Code]](https://github.com/Selen-Suyue/MBA)
+- PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs [[Paper]](https://pivot-prompt.github.io/assets/pivot.pdf)) [[Code]](https://huggingface.co/spaces/pivot-prompt/pivot-prompt-demo)
+- ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2409.01652)) [[Code]](https://rekep-robot.github.io/)
+- DP3: 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[Paper]](https://arxiv.org/abs/2403.03954)) [[Code]](https://github.com/YanjieZe/3D-Diffusion-Policy)
+- RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [[Paper]](https://arxiv.org/abs/2410.07864)) [[Code]](https://github.com/thu-ml/RoboticsDiffusionTransformer)
+- MBA: Motion Before Action: Diffusing Object Motion as Manipulation Condition [[Paper]](https://arxiv.org/abs/2411.09658)) [[Code]](https://github.com/Selen-Suyue/MBA)
 - RVT-2: Learning Precise Manipulation from Few Demonstrations [[Paper]](https://arxiv.org/abs/2406.08545)) [[Code]](https://github.com/nvlabs/rvt)
 
 #### 2023
-- DP: Diffusion Policy: Visuomotor Policy Learning via Action Diffusion [[Paper]]([https://arxiv.org/abs/2303.04137])) [[Code]](https://github.com/real-stanford/diffusion_policy)
-- RVT: Robotic View Transformer for 3D Object Manipulation [[Paper]]([https://arxiv.org/abs/2306.14896])) [[Code]](https://github.com/nvlabs/rvt)
-- ACT: Learning finegrained bimanual manipulation with low-cost hardware [[Paper]]([https://arxiv.org/abs/2304.13705])) [[Code]](https://github.com/tonyzhaozh/aloha)
-- Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions [[Paper]]([https://arxiv.org/abs/2309.10150])) [[Code]](https://qtransformer.github.io/)
+- DP: Diffusion Policy: Visuomotor Policy Learning via Action Diffusion [[Paper]](https://arxiv.org/abs/2303.04137)) [[Code]](https://github.com/real-stanford/diffusion_policy)
+- RVT: Robotic View Transformer for 3D Object Manipulation [[Paper]](https://arxiv.org/abs/2306.14896)) [[Code]](https://github.com/nvlabs/rvt)
+- ACT: Learning finegrained bimanual manipulation with low-cost hardware [[Paper]](https://arxiv.org/abs/2304.13705)) [[Code]](https://github.com/tonyzhaozh/aloha)
+- Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions [[Paper]](https://arxiv.org/abs/2309.10150)) [[Code]](https://qtransformer.github.io/)
 - 
 
 
