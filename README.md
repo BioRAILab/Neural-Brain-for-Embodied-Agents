@@ -268,7 +268,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 - DP3: 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[Paper]]([https://arxiv.org/abs/2403.03954])) [[Code]](https://github.com/YanjieZe/3D-Diffusion-Policy)
 - RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [[Paper]]([https://arxiv.org/abs/2410.07864])) [[Code]](https://github.com/thu-ml/RoboticsDiffusionTransformer)
 - MBA: Motion Before Action: Diffusing Object Motion as Manipulation Condition [[Paper]]([https://arxiv.org/abs/2411.09658])) [[Code]](https://github.com/Selen-Suyue/MBA)
-- RVT-2: Learning Precise Manipulation from Few Demonstrations [[Paper]]([https://arxiv.org/abs/2406.08545])) [[Code]](https://github.com/nvlabs/rvt)
+- RVT-2: Learning Precise Manipulation from Few Demonstrations [[Paper]](https://arxiv.org/abs/2406.08545)) [[Code]](https://github.com/nvlabs/rvt)
 
 #### 2023
 - DP: Diffusion Policy: Visuomotor Policy Learning via Action Diffusion [[Paper]]([https://arxiv.org/abs/2303.04137])) [[Code]](https://github.com/real-stanford/diffusion_policy)
