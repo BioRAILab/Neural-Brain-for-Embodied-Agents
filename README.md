@@ -263,29 +263,29 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 
 #### 2024
 
-- PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs [[Paper]](https://pivot-prompt.github.io/assets/pivot.pdf)) [[Code]](https://huggingface.co/spaces/pivot-prompt/pivot-prompt-demo)
-- ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2409.01652)) [[Code]](https://rekep-robot.github.io/)
-- DP3: 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[Paper]](https://arxiv.org/abs/2403.03954)) [[Code]](https://github.com/YanjieZe/3D-Diffusion-Policy)
-- RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [[Paper]](https://arxiv.org/abs/2410.07864)) [[Code]](https://github.com/thu-ml/RoboticsDiffusionTransformer)
-- MBA: Motion Before Action: Diffusing Object Motion as Manipulation Condition [[Paper]](https://arxiv.org/abs/2411.09658)) [[Code]](https://github.com/Selen-Suyue/MBA)
-- RVT-2: Learning Precise Manipulation from Few Demonstrations [[Paper]](https://arxiv.org/abs/2406.08545)) [[Code]](https://github.com/nvlabs/rvt)
+- PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs [[Paper]](https://pivot-prompt.github.io/assets/pivot.pdf) [[Code]](https://huggingface.co/spaces/pivot-prompt/pivot-prompt-demo)
+- ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2409.01652) [[Code]](https://rekep-robot.github.io/)
+- DP3: 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[Paper]](https://arxiv.org/abs/2403.03954) [[Code]](https://github.com/YanjieZe/3D-Diffusion-Policy)
+- RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [[Paper]](https://arxiv.org/abs/2410.07864) [[Code]](https://github.com/thu-ml/RoboticsDiffusionTransformer)
+- MBA: Motion Before Action: Diffusing Object Motion as Manipulation Condition [[Paper]](https://arxiv.org/abs/2411.09658) [[Code]](https://github.com/Selen-Suyue/MBA)
+- RVT-2: Learning Precise Manipulation from Few Demonstrations [[Paper]](https://arxiv.org/abs/2406.08545) [[Code]](https://github.com/nvlabs/rvt)
 
 #### 2023
-- DP: Diffusion Policy: Visuomotor Policy Learning via Action Diffusion [[Paper]](https://arxiv.org/abs/2303.04137)) [[Code]](https://github.com/real-stanford/diffusion_policy)
-- RVT: Robotic View Transformer for 3D Object Manipulation [[Paper]](https://arxiv.org/abs/2306.14896)) [[Code]](https://github.com/nvlabs/rvt)
-- ACT: Learning finegrained bimanual manipulation with low-cost hardware [[Paper]](https://arxiv.org/abs/2304.13705)) [[Code]](https://github.com/tonyzhaozh/aloha)
-- Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions [[Paper]](https://arxiv.org/abs/2309.10150)) [[Code]](https://qtransformer.github.io/)
+- DP: Diffusion Policy: Visuomotor Policy Learning via Action Diffusion [[Paper]](https://arxiv.org/abs/2303.04137) [[Code]](https://github.com/real-stanford/diffusion_policy)
+- RVT: Robotic View Transformer for 3D Object Manipulation [[Paper]](https://arxiv.org/abs/2306.14896) [[Code]](https://github.com/nvlabs/rvt)
+- ACT: Learning finegrained bimanual manipulation with low-cost hardware [[Paper]](https://arxiv.org/abs/2304.13705) [[Code]](https://github.com/tonyzhaozh/aloha)
+- Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions [[Paper]](https://arxiv.org/abs/2309.10150) [[Code]](https://qtransformer.github.io/)
 
 #### 2022
-- RT-1: Robotics Transformer for Real-World Control at Scale [[Paper]](https://arxiv.org/abs/2212.06817)) [[Code]](https://github.com/google-research/robotics_transformer)
+- RT-1: Robotics Transformer for Real-World Control at Scale [[Paper]](https://arxiv.org/abs/2212.06817) [[Code]](https://github.com/google-research/robotics_transformer)
 - BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning [[Paper]](https://arxiv.org/abs/2202.02005)) [[Code]](https://sites.google.com/view/bc-z/home)
-- CLIPort: What and Where Pathways for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2109.12098)) [[Code]](https://github.com/cliport/cliport)
+- CLIPort: What and Where Pathways for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2109.12098) [[Code]](https://github.com/cliport/cliport)
 
 #### 2021
-- Transporter Networks: Rearranging the Visual World for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2010.14406)) [[Code]](https://transporternets.github.io/)
+- Transporter Networks: Rearranging the Visual World for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2010.14406) [[Code]](https://transporternets.github.io/)
 
 #### 2020
-- MCIL: Language Conditioned Imitation Learning over Unstructured Data [[Paper]](https://arxiv.org/abs/2005.07648)) [[Code]](https://language-play.github.io/)
+- MCIL: Language Conditioned Imitation Learning over Unstructured Data [[Paper]](https://arxiv.org/abs/2005.07648) [[Code]](https://language-play.github.io/)
 </details>
 
 
@@ -293,24 +293,37 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 <summary>(a) Vision-Language-Navigation Models (VLN) </summary>
 
 #### 2023
-- BEVBert: Multimodal Map Pre-training for Language-guided Navigation [[Paper]](https://arxiv.org/abs/2212.04385)) [[Code]](https://github.com/MarSaKi/VLN-BEVBert)
+- BEVBert: Multimodal Map Pre-training for Language-guided Navigation [[Paper]](https://arxiv.org/abs/2212.04385) [[Code]](https://github.com/MarSaKi/VLN-BEVBert)
 
 #### 2022
-- CM2: Cross-modal Map Learning for Vision and Language Navigation [[Paper]](https://arxiv.org/abs/2203.05137)) [[Code]](https://ggeorgak11.github.io/CM2-project/)
-- Talk2nav: Talk2Nav: Long-Range Vision-and-Language Navigation with Dual Attention and Spatial Memory [[Paper]](https://link.springer.com/article/10.1007/s11263-020-01374-3)) [[Code]](https://www.trace.ethz.ch/publications/2019/talk2nav/index.html)
-- Waypoints Predictor: Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation [[Paper]](https://arxiv.org/abs/2203.02764)) [[Code]](https://github.com/YicongHong/Discrete-Continuous-VLN)
+- CM2: Cross-modal Map Learning for Vision and Language Navigation [[Paper]](https://arxiv.org/abs/2203.05137) [[Code]](https://ggeorgak11.github.io/CM2-project/)
+- Talk2nav: Talk2Nav: Long-Range Vision-and-Language Navigation with Dual Attention and Spatial Memory [[Paper]](https://link.springer.com/article/10.1007/s11263-020-01374-3) [[Code]](https://www.trace.ethz.ch/publications/2019/talk2nav/index.html)
+- Waypoints Predictor: Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation [[Paper]](https://arxiv.org/abs/2203.02764) [[Code]](https://github.com/YicongHong/Discrete-Continuous-VLN)
 
 #### 2021
-- HAMT: History Aware Multimodal Transformer for Vision-and-Language Navigation [[Paper]](https://arxiv.org/abs/2110.13309)) [[Code]](https://github.com/cshizhe/VLN-HAMT)
-- WPN: Waypoint Models for Instruction-guided Navigation in Continuous Environments [[Paper]](https://ieeexplore.ieee.org/document/9710310)) [[Code]](https://github.com/jacobkrantz/VLN-CE)
-- Sim-to-Real: Sim-to-Real Transfer for Vision-and-Language Navigation [[Paper]](https://arxiv.org/abs/2011.03807)) [[Code]](https://github.com/batra-mlp-lab/vln-sim2real)
+- HAMT: History Aware Multimodal Transformer for Vision-and-Language Navigation [[Paper]](https://arxiv.org/abs/2110.13309) [[Code]](https://github.com/cshizhe/VLN-HAMT)
+- WPN: Waypoint Models for Instruction-guided Navigation in Continuous Environments [[Paper]](https://ieeexplore.ieee.org/document/9710310) [[Code]](https://github.com/jacobkrantz/VLN-CE)
+- Sim-to-Real: Sim-to-Real Transfer for Vision-and-Language Navigation [[Paper]](https://arxiv.org/abs/2011.03807) [[Code]](https://github.com/batra-mlp-lab/vln-sim2real)
 
  #### 2018
-- Speaker-Follower: Speaker-Follower Models for Vision-and-Language Navigation [[Paper]](https://arxiv.org/abs/1806.02724)) [[Code]](https://github.com/ronghanghu/speaker_follower)
-- VLN-Graph: Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments [[Paper]](https://arxiv.org/abs/1711.07280)) [[Code]](https://bringmeaspoon.org/)
+- Speaker-Follower: Speaker-Follower Models for Vision-and-Language Navigation [[Paper]](https://arxiv.org/abs/1806.02724) [[Code]](https://github.com/ronghanghu/speaker_follower)
+- VLN-Graph: Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments [[Paper]](https://arxiv.org/abs/1711.07280) [[Code]](https://bringmeaspoon.org/)
 
 </details>
+
 #### 4.1.4 Perception-Cognition-Action in AI
+<details>
+<summary>(a) Vision-Language-Action Models (VLA)</summary>
+π<sub>0.5</sub>: a VLA with Open-World Generalization [[Paper]](https://www.physicalintelligence.company/download/pi05.pdf) [[Code]](https://www.pi.website/blog/pi05)
+ 
+</details>
+
+
+<details>
+<summary>(a) Vision-Language-Navigation Models (VLN) </summary>
+
+
+</details>
 
 ### 4.2. Remarks and Discussions
 
