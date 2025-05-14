@@ -329,11 +329,18 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 
 </details>
 
-
 <details>
 <summary>(a) Vision-Language-Navigation Models (VLN) </summary>
 
+#### 2024
+- MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation [[Paper]](https://arxiv.org/abs/2401.07314) [[Code]](https://github.com/chen-judge/MapGPT/)
+- InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment [[Paper]](https://arxiv.org/abs/2406.04882) [[Code]](https://github.com/LYX0501/InstructNav)
+- NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models [[Paper]](https://arxiv.org/abs/2305.16986) [[Code]](https://github.com/GengzeZhou/NavGPT)
+- NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models [[Paper]](https://arxiv.org/abs/2407.12366) [[Code]](https://github.com/GengzeZhou/NavGPT-2)
+- NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation [[Paper]](https://arxiv.org/abs/2402.15852) [[Code]](https://github.com/jzhzhang/NaVid-VLN-CE)
 
+#### 2022
+- CLIP-Nav: Using CLIP for Zero-Shot Vision-and-Language Navigation [[Paper]](https://arxiv.org/abs/2211.16649) 
 </details>
 
 ### 4.2. Remarks and Discussions
