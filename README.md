@@ -253,12 +253,24 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 - AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models [[Paper]](https://arxiv.org/abs/2408.15511)
 
 #### 2023
-- Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling [[Paper]](https://arxiv.org/abs/2301.12050) [[Code]](https://github.com/DeckardAgent/deckard)
+- Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling [[Paper]]([https://pivot-prompt.github.io/assets/pivot.pdf])) [[Code]](https://huggingface.co/spaces/pivot-prompt/pivot-prompt-demo)
 
 </details>
 
 #### 4.1.3 Perception-Action in AI
+<details>
+<summary>(a) Vision-Language-Action Models (VLA)</summary>
 
+- PIVOT: PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs [[Paper]](https://arxiv.org/abs/2410.07484) [[Code]](https://github.com/elated-sawyer/WALL-E)
+
+</details>
+
+
+<details>
+<summary>(a) Vision-Language-Navigation Models (VLN) </summary>
+
+
+</details>
 #### 4.1.4 Perception-Cognition-Action in AI
 
 ### 4.2. Remarks and Discussions
