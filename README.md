@@ -49,6 +49,49 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
  
 ## 3. Sensing for Neural Brain
 
+### 3.1 Embodied Agent Sensing
+
+#### Vision
+<details>
+- Stereo from uncalibrated cameras [[Paper]](https://ieeexplore.ieee.org/document/223179)
+- Comparison of Kinect v1 and v2 Depth Images in Terms of Accuracy and Precision [[Paper]](https://www.dfki.de/fileadmin/user_upload/import/8767_wasenmuller2016comparison.pdf)
+- Event-based Vision: A Survey [[Paper]](https://arxiv.org/abs/1904.08405)
+- Lidar System Architectures and Circuits [[Paper]](https://ieeexplore.ieee.org/document/8067701)
+<\details>
+
+#### Audition
+<details>
+- Eargle's The Microphone Book From Mono to Stereo to Surround - A Guide to Microphone Design and Application [[Paper]](https://www.routledge.com/Eargles-The-Microphone-Book-From-Mono-to-Stereo-to-Surround---A-Guide-to-Microphone-Design-and-Application/Rayburn/p/book/9780240820750?srsltid=AfmBOoqgLCu1POMoRIOP6laDwRRI2vrDlg13Q5q8XASgkevpaOZxFi7S)
+- DeepEar: Sound Localization With Binaural Microphones [[Paper]](https://ieeexplore.ieee.org/document/9954178)
+- Springer Handbook of Speech Processing [[Paper]](https://link.springer.com/book/10.1007/978-3-540-49127-9)
+- Ultrasonic transducers and arrays [[Paper]](https://ieeexplore.ieee.org/document/544509)
+<\details>
+
+#### Audition
+<details>
+- Tactile Sensing—From Humans to Humanoids [[Paper]](https://ieeexplore.ieee.org/document/5339133)
+- Force Push: Robust Single-Point Pushing with Force Feedback [[Paper]](https://arxiv.org/abs/2401.17517)
+- The Feel of MEMS Barometers: Inexpensive and Easily Customized Tactile Array Sensors [[Paper]](https://ieeexplore.ieee.org/document/6877681)
+- GelSlim: A High-Resolution, Compact, Robust, and Calibrated Tactile-sensing Finger [[Paper]](https://arxiv.org/abs/1803.00628)
+<\details>
+
+#### Olfaction
+<details>
+- 1D Metal Oxide Semiconductor Materials for Chemiresistive Gas Sensors: A Review [[Paper]](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aelm.202100271)
+- Comparisons between mammalian and artificial olfaction based on arrays of carbon black-polymer composite vapor detectors [[Paper]](https://pubmed.ncbi.nlm.nih.gov/15379582/)
+- Piezoelectric Sensor [[Paper]](https://www.sciencedirect.com/topics/engineering/piezoelectric-sensor)
+- Recent Advance in the Design of Colorimetric Sensors for Environmental Monitoring [[Paper]](https://www.researchgate.net/publication/342300076_Recent_Advance_in_the_Design_of_Colorimetric_Sensors_for_Environmental_Monitoring)
+<\details> 
+
+#### Spatial/Time 
+<details>
+- Global navigation satellite systems [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169999000563)
+- Robust mobile robot localization using optical flow sensors and encoders [[Paper]](https://ieeexplore.ieee.org/document/1307287)
+- A Tutorial on Quantitative Trajectory Evaluation for Visual(-Inertial) Odometry [[Paper]](https://ieeexplore.ieee.org/document/8593941)
+- Spatio-temporal fusion for remote sensing data: an overview and new benchmark [[Paper]](https://link.springer.com/article/10.1007/s11432-019-2785-y)
+<\details> 
+
+
 ## 4. Neural Brain Perception-Cognition-Action (Function)
 
 ### 4.1 Embodied Agent Perception-Cognition-Action
