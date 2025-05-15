@@ -95,7 +95,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 </details>
 
 <details>
-<summary>(f) Spatial/Time </summary>
+<summary>(e) Spatial/Time </summary>
  
 - Global navigation satellite systems [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169999000563)
 - Robust mobile robot localization using optical flow sensors and encoders [[Paper]](https://ieeexplore.ieee.org/document/1307287)
@@ -117,7 +117,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 </details>
 
 <details>
-<summary>(a) Adaptive Calibration </summary>
+<summary>(b) Adaptive Calibration </summary>
  
 - Deep Learning for Camera Calibration and Beyond: A Survey [[Paper]](https://arxiv.org/abs/2303.10559)
 - Polymer-Based Self-Calibrated Optical Fiber Tactile Sensor [[Paper]](https://arxiv.org/abs/2303.00619)
@@ -383,7 +383,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 
 
 <details>
-<summary>(a) Vision-Language-Navigation Models (VLN) </summary>
+<summary>(b) Vision-Language-Navigation Models (VLN) </summary>
 
 #### 2023
 - BEVBert: Multimodal Map Pre-training for Language-guided Navigation [[Paper]](https://arxiv.org/abs/2212.04385) [[Code]](https://github.com/MarSaKi/VLN-BEVBert)
@@ -423,7 +423,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 </details>
 
 <details>
-<summary>(a) Vision-Language-Navigation Models (VLN) </summary>
+<summary>(b) Vision-Language-Navigation Models (VLN) </summary>
 
 #### 2024
 - MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation [[Paper]](https://arxiv.org/abs/2401.07314) [[Code]](https://github.com/chen-judge/MapGPT/)
@@ -437,6 +437,17 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 </details>
 
 ### 4.2. Remarks and Discussions
+<details>
+<summary>References</summary>
+
+
+- Multimodal Machine Learning: A Survey and Taxonomy [[Paper]](https://arxiv.org/abs/1705.09406) 
+- Multimodal Interaction, Interfaces, and Communication: A Survey [[Paper]](https://www.mdpi.com/2414-4088/9/1/6)
+- Measuring Domain Shift for Deep Learning in Histopathology [[Paper]](https://pubmed.ncbi.nlm.nih.gov/33085623/)
+- Generalized Out-of-Distribution Detection: A Survey [[Paper]](https://arxiv.org/abs/2110.11334)
+
+</details>
+
 
 ## 5. Neural Brain Memory Storage and Update
 
@@ -567,10 +578,8 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 <details>
 <summary>References</summary>
 
-#### 2025
-- Lifelong Learning of Large Language Model based Agents: A Roadmap [[Paper]](https://arxiv.org/abs/2501.07278) [[Code]](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)
 
-#### 2024
+- Lifelong Learning of Large Language Model based Agents: A Roadmap [[Paper]](https://arxiv.org/abs/2501.07278) [[Code]](https://github.com/qianlima-lab/awesome-lifelong-llm-agent)
 - Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[Paper]](https://arxiv.org/abs/2407.06886) [[Code]](https://github.com/hcplab-sysu/embodied_ai_paper_list)
 - MEIA: Multimodal Embodied Perception and Interaction in Unknown Environments [[Paper]](https://arxiv.org/abs/2402.00290)
 
