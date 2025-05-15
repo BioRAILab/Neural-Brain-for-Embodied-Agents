@@ -49,7 +49,9 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
  
 ## 3. Sensing for Neural Brain
 
-### 3.1.1 Embodied Agent Sensing
+### 3.1 Embodied Agent Sensing
+
+#### 3.1.1 Multimodal and Hierarchical Sensing
 
 <details>
 <summary>(a) Vision</summary>
@@ -91,7 +93,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 - Spatio-temporal fusion for remote sensing data: an overview and new benchmark [[Paper]](https://link.springer.com/article/10.1007/s11432-019-2785-y)
 <\details> 
 
-### 3.1.2 Active Sensing and Adaptive Calibration
+#### 3.1.2 Active Sensing and Adaptive Calibration
 
 <details>
 <summary>(a) Active Sensing </summary>
