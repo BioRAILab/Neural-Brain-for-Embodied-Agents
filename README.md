@@ -49,7 +49,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
  
 ## 3. Sensing for Neural Brain
 
-### 3.1 Embodied Agent Sensing
+### 3.1.1 Embodied Agent Sensing
 
 #### Vision
 <details>
@@ -89,6 +89,24 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 - Robust mobile robot localization using optical flow sensors and encoders [[Paper]](https://ieeexplore.ieee.org/document/1307287)
 - A Tutorial on Quantitative Trajectory Evaluation for Visual(-Inertial) Odometry [[Paper]](https://ieeexplore.ieee.org/document/8593941)
 - Spatio-temporal fusion for remote sensing data: an overview and new benchmark [[Paper]](https://link.springer.com/article/10.1007/s11432-019-2785-y)
+<\details> 
+
+### 3.1.2 Active Sensing and Adaptive Calibration
+
+#### Active Sensing
+<details>
+- Designing and Evaluating a Social Gaze-Control System for a Humanoid Robot [[Paper]](https://ieeexplore.ieee.org/document/6736067)
+- Robot Active Neural Sensing and Planning in Unknown Cluttered Environments [[Paper]](https://ieeexplore.ieee.org/document/10101696)
+- Multi-robot coordination through dynamic Voronoi partitioning for informative adaptive sampling in communication-constrained environments [[Paper]](https://ieeexplore.ieee.org/document/7989245)
+- Deep Learning for Omnidirectional Vision: A Survey and New Perspectives [[Paper]](https://arxiv.org/abs/2205.10468)
+<\details> 
+
+#### Adaptive Calibration
+<details>
+- Deep Learning for Camera Calibration and Beyond: A Survey [[Paper]](https://arxiv.org/abs/2303.10559)
+- Polymer-Based Self-Calibrated Optical Fiber Tactile Sensor [[Paper]](https://arxiv.org/abs/2303.00619)
+- Self-validating sensor technology and its application in artificial olfaction: A review [[Paper]](https://www.sciencedirect.com/science/article/pii/S0263224124019109)
+- GVINS: Tightly Coupled GNSS-Visual-Inertial Fusion for Smooth and Consistent State Estimation [[Paper]](https://arxiv.org/abs/2103.07899)
 <\details> 
 
 
