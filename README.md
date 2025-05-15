@@ -62,7 +62,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 - Event-based Vision: A Survey [[Paper]](https://arxiv.org/abs/1904.08405)
 - Lidar System Architectures and Circuits [[Paper]](https://ieeexplore.ieee.org/document/8067701)
   
-<\details>
+</details>
 
 <details>
 <summary>(b) Audition</summary>
@@ -72,7 +72,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 - Springer Handbook of Speech Processing [[Paper]](https://link.springer.com/book/10.1007/978-3-540-49127-9)
 - Ultrasonic transducers and arrays [[Paper]](https://ieeexplore.ieee.org/document/544509)
   
-<\details>
+</details>
 
 <details>
 <summary>(c) Tactile</summary>
@@ -82,7 +82,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 - The Feel of MEMS Barometers: Inexpensive and Easily Customized Tactile Array Sensors [[Paper]](https://ieeexplore.ieee.org/document/6877681)
 - GelSlim: A High-Resolution, Compact, Robust, and Calibrated Tactile-sensing Finger [[Paper]](https://arxiv.org/abs/1803.00628)
   
-<\details>
+</details>
 
 <details>
 <summary>(d) Olfaction</summary>
@@ -92,7 +92,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 - Piezoelectric Sensor [[Paper]](https://www.sciencedirect.com/topics/engineering/piezoelectric-sensor)
 - Recent Advance in the Design of Colorimetric Sensors for Environmental Monitoring [[Paper]](https://www.researchgate.net/publication/342300076_Recent_Advance_in_the_Design_of_Colorimetric_Sensors_for_Environmental_Monitoring)
   
-<\details> 
+</details>
 
 <details>
 <summary>(f) Spatial/Time </summary>
@@ -102,7 +102,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 - A Tutorial on Quantitative Trajectory Evaluation for Visual(-Inertial) Odometry [[Paper]](https://ieeexplore.ieee.org/document/8593941)
 - Spatio-temporal fusion for remote sensing data: an overview and new benchmark [[Paper]](https://link.springer.com/article/10.1007/s11432-019-2785-y)
   
-<\details> 
+</details>
 
 #### 3.1.2 Active Sensing and Adaptive Calibration
 
@@ -114,7 +114,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 - Multi-robot coordination through dynamic Voronoi partitioning for informative adaptive sampling in communication-constrained environments [[Paper]](https://ieeexplore.ieee.org/document/7989245)
 - Deep Learning for Omnidirectional Vision: A Survey and New Perspectives [[Paper]](https://arxiv.org/abs/2205.10468)
   
-<\details> 
+</details>
 
 <details>
 <summary>(a) Adaptive Calibration </summary>
@@ -124,8 +124,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 - Self-validating sensor technology and its application in artificial olfaction: A review [[Paper]](https://www.sciencedirect.com/science/article/pii/S0263224124019109)
 - GVINS: Tightly Coupled GNSS-Visual-Inertial Fusion for Smooth and Consistent State Estimation [[Paper]](https://arxiv.org/abs/2103.07899)
   
-<\details> 
-
+</details>
 
 ## 4. Neural Brain Perception-Cognition-Action (Function)
 
