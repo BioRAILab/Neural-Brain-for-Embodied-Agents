@@ -126,6 +126,22 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
   
 </details>
 
+### 3.2 Remarks and Discussions
+
+<details>
+<summary>References</summary>
+
+- FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry [[Paper]](https://arxiv.org/abs/2408.14035)
+- VILENS: Visual, Inertial, Lidar, and Leg Odometry for All-Terrain Legged Robots [[Paper]](https://arxiv.org/abs/2107.07243)
+- Fast Foveating Cameras for Dense Adaptive Resolution [[Paper]](https://btilmon.github.io/pubs/FoveaCam_PAMI.pdf)
+- A Survey on Active Simultaneous Localization and Mapping: State of the Art and New Frontiers [[Paper]](https://arxiv.org/abs/2207.00254)
+- A New Wave in Robotics: Survey on Recent mmWave Radar Applications in Robotics [[Paper]](https://arxiv.org/abs/2305.01135)
+- Electronic Nose and Its Applications: A Survey [[Paper]](https://link.springer.com/article/10.1007/s11633-019-1212-9)
+- Real-Time Temporal and Rotational Calibration of Heterogeneous Sensors Using Motion Correlation Analysis [[Paper]](https://ieeexplore.ieee.org/document/9271875)
+
+
+</details>
+
 ## 4. Neural Brain Perception-Cognition-Action (Function)
 
 ### 4.1 Embodied Agent Perception-Cognition-Action
