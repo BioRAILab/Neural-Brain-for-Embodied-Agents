@@ -52,6 +52,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 ### 3.1.1 Embodied Agent Sensing
 
 #### Vision
+<summary>(a) Vision (LLMs)</summary>
 <details>
 - Stereo from uncalibrated cameras [[Paper]](https://ieeexplore.ieee.org/document/223179)
 - Comparison of Kinect v1 and v2 Depth Images in Terms of Accuracy and Precision [[Paper]](https://www.dfki.de/fileadmin/user_upload/import/8767_wasenmuller2016comparison.pdf)
@@ -60,6 +61,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 <\details>
 
 #### Audition
+
 <details>
 - Eargle's The Microphone Book From Mono to Stereo to Surround - A Guide to Microphone Design and Application [[Paper]](https://www.routledge.com/Eargles-The-Microphone-Book-From-Mono-to-Stereo-to-Surround---A-Guide-to-Microphone-Design-and-Application/Rayburn/p/book/9780240820750?srsltid=AfmBOoqgLCu1POMoRIOP6laDwRRI2vrDlg13Q5q8XASgkevpaOZxFi7S)
 - DeepEar: Sound Localization With Binaural Microphones [[Paper]](https://ieeexplore.ieee.org/document/9954178)
@@ -68,6 +70,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 <\details>
 
 #### Audition
+
 <details>
 - Tactile Sensing—From Humans to Humanoids [[Paper]](https://ieeexplore.ieee.org/document/5339133)
 - Force Push: Robust Single-Point Pushing with Force Feedback [[Paper]](https://arxiv.org/abs/2401.17517)
@@ -76,6 +79,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 <\details>
 
 #### Olfaction
+
 <details>
 - 1D Metal Oxide Semiconductor Materials for Chemiresistive Gas Sensors: A Review [[Paper]](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aelm.202100271)
 - Comparisons between mammalian and artificial olfaction based on arrays of carbon black-polymer composite vapor detectors [[Paper]](https://pubmed.ncbi.nlm.nih.gov/15379582/)
@@ -84,6 +88,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 <\details> 
 
 #### Spatial/Time 
+
 <details>
 - Global navigation satellite systems [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169999000563)
 - Robust mobile robot localization using optical flow sensors and encoders [[Paper]](https://ieeexplore.ieee.org/document/1307287)
@@ -94,6 +99,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 ### 3.1.2 Active Sensing and Adaptive Calibration
 
 #### Active Sensing
+
 <details>
 - Designing and Evaluating a Social Gaze-Control System for a Humanoid Robot [[Paper]](https://ieeexplore.ieee.org/document/6736067)
 - Robot Active Neural Sensing and Planning in Unknown Cluttered Environments [[Paper]](https://ieeexplore.ieee.org/document/10101696)
@@ -102,6 +108,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 <\details> 
 
 #### Adaptive Calibration
+
 <details>
 - Deep Learning for Camera Calibration and Beyond: A Survey [[Paper]](https://arxiv.org/abs/2303.10559)
 - Polymer-Based Self-Calibrated Optical Fiber Tactile Sensor [[Paper]](https://arxiv.org/abs/2303.00619)
