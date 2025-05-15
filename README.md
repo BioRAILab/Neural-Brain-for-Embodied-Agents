@@ -61,6 +61,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 - Comparison of Kinect v1 and v2 Depth Images in Terms of Accuracy and Precision [[Paper]](https://www.dfki.de/fileadmin/user_upload/import/8767_wasenmuller2016comparison.pdf)
 - Event-based Vision: A Survey [[Paper]](https://arxiv.org/abs/1904.08405)
 - Lidar System Architectures and Circuits [[Paper]](https://ieeexplore.ieee.org/document/8067701)
+  
 <\details>
 
 <details>
@@ -70,48 +71,59 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 - DeepEar: Sound Localization With Binaural Microphones [[Paper]](https://ieeexplore.ieee.org/document/9954178)
 - Springer Handbook of Speech Processing [[Paper]](https://link.springer.com/book/10.1007/978-3-540-49127-9)
 - Ultrasonic transducers and arrays [[Paper]](https://ieeexplore.ieee.org/document/544509)
+  
 <\details>
 
 <details>
 <summary>(c) Tactile</summary>
+ 
 - Tactile Sensing—From Humans to Humanoids [[Paper]](https://ieeexplore.ieee.org/document/5339133)
 - Force Push: Robust Single-Point Pushing with Force Feedback [[Paper]](https://arxiv.org/abs/2401.17517)
 - The Feel of MEMS Barometers: Inexpensive and Easily Customized Tactile Array Sensors [[Paper]](https://ieeexplore.ieee.org/document/6877681)
 - GelSlim: A High-Resolution, Compact, Robust, and Calibrated Tactile-sensing Finger [[Paper]](https://arxiv.org/abs/1803.00628)
+  
 <\details>
 
 <details>
 <summary>(d) Olfaction</summary>
+ 
 - 1D Metal Oxide Semiconductor Materials for Chemiresistive Gas Sensors: A Review [[Paper]](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aelm.202100271)
 - Comparisons between mammalian and artificial olfaction based on arrays of carbon black-polymer composite vapor detectors [[Paper]](https://pubmed.ncbi.nlm.nih.gov/15379582/)
 - Piezoelectric Sensor [[Paper]](https://www.sciencedirect.com/topics/engineering/piezoelectric-sensor)
 - Recent Advance in the Design of Colorimetric Sensors for Environmental Monitoring [[Paper]](https://www.researchgate.net/publication/342300076_Recent_Advance_in_the_Design_of_Colorimetric_Sensors_for_Environmental_Monitoring)
+  
 <\details> 
 
 <details>
 <summary>(f) Spatial/Time </summary>
+ 
 - Global navigation satellite systems [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169999000563)
 - Robust mobile robot localization using optical flow sensors and encoders [[Paper]](https://ieeexplore.ieee.org/document/1307287)
 - A Tutorial on Quantitative Trajectory Evaluation for Visual(-Inertial) Odometry [[Paper]](https://ieeexplore.ieee.org/document/8593941)
 - Spatio-temporal fusion for remote sensing data: an overview and new benchmark [[Paper]](https://link.springer.com/article/10.1007/s11432-019-2785-y)
+  
 <\details> 
 
 #### 3.1.2 Active Sensing and Adaptive Calibration
 
 <details>
 <summary>(a) Active Sensing </summary>
+ 
 - Designing and Evaluating a Social Gaze-Control System for a Humanoid Robot [[Paper]](https://ieeexplore.ieee.org/document/6736067)
 - Robot Active Neural Sensing and Planning in Unknown Cluttered Environments [[Paper]](https://ieeexplore.ieee.org/document/10101696)
 - Multi-robot coordination through dynamic Voronoi partitioning for informative adaptive sampling in communication-constrained environments [[Paper]](https://ieeexplore.ieee.org/document/7989245)
 - Deep Learning for Omnidirectional Vision: A Survey and New Perspectives [[Paper]](https://arxiv.org/abs/2205.10468)
+  
 <\details> 
 
 <details>
 <summary>(a) Adaptive Calibration </summary>
+ 
 - Deep Learning for Camera Calibration and Beyond: A Survey [[Paper]](https://arxiv.org/abs/2303.10559)
 - Polymer-Based Self-Calibrated Optical Fiber Tactile Sensor [[Paper]](https://arxiv.org/abs/2303.00619)
 - Self-validating sensor technology and its application in artificial olfaction: A review [[Paper]](https://www.sciencedirect.com/science/article/pii/S0263224124019109)
 - GVINS: Tightly Coupled GNSS-Visual-Inertial Fusion for Smooth and Consistent State Estimation [[Paper]](https://arxiv.org/abs/2103.07899)
+  
 <\details> 
 
 
