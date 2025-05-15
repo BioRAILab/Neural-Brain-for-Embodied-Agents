@@ -56,7 +56,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 <details>
 <summary>(a) Vision</summary>
  
-#### 2023
+
 - Stereo from uncalibrated cameras [[Paper]](https://ieeexplore.ieee.org/document/223179)
 - Comparison of Kinect v1 and v2 Depth Images in Terms of Accuracy and Precision [[Paper]](https://www.dfki.de/fileadmin/user_upload/import/8767_wasenmuller2016comparison.pdf)
 - Event-based Vision: A Survey [[Paper]](https://arxiv.org/abs/1904.08405)
@@ -65,6 +65,7 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 
 <details>
 <summary>(b) Audition</summary>
+ 
 - Eargle's The Microphone Book From Mono to Stereo to Surround - A Guide to Microphone Design and Application [[Paper]](https://www.routledge.com/Eargles-The-Microphone-Book-From-Mono-to-Stereo-to-Surround---A-Guide-to-Microphone-Design-and-Application/Rayburn/p/book/9780240820750?srsltid=AfmBOoqgLCu1POMoRIOP6laDwRRI2vrDlg13Q5q8XASgkevpaOZxFi7S)
 - DeepEar: Sound Localization With Binaural Microphones [[Paper]](https://ieeexplore.ieee.org/document/9954178)
 - Springer Handbook of Speech Processing [[Paper]](https://link.springer.com/book/10.1007/978-3-540-49127-9)
