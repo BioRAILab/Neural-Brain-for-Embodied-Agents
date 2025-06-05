@@ -334,6 +334,9 @@ The Neural Brain for embodied agents is a <b>biologically inspired computational
 #### 2022
 - JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents [[Paper]](https://arxiv.org/abs/2208.13266)
 
+#### Other Relevant Pages
+[Page1](https://lis.csail.mit.edu/bilevel-planning-for-robots-an-illustrated-introduction), [Page2](https://github.com/Learning-and-Intelligent-Systems/predicators), [Page3](https://github.com/Learning-and-Intelligent-Systems/predicators_behavior), [Page4](https://github.com/bdaiinstitute/predicators), [Page5](https://github.com/Learning-and-Intelligent-Systems/kitchen-worlds), [Page6](https://tomsilver.github.io)
+
 </details>
 
 <details>
